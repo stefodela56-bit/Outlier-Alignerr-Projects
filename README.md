@@ -1,6 +1,6 @@
-# Outlier e Alignerr Projects – Senior Data/AI Portfolio
+# Outlier and Alignerr Projects – Senior Data/AI Portfolio
 
-Results-driven engineer focused on **high-impact, production-grade** work for Outlier e Alignerr clients:
+Results-driven engineer focused on **high-impact, production-grade** work for Outlier and Alignerr clients:
 - **Python (Advanced)**: FastAPI microservices, ETL, data quality, ML inference pipelines
 - **SQL (Advanced)**: window functions, CTEs, partitioning, performance tuning
 - **Java (Advanced)**: Spring Boot microservices, REST APIs, testing, CI/CD
